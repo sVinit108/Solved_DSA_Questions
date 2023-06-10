@@ -1,0 +1,4 @@
+1. DDL, DML, TCL, DQL, DCL (Syntax+Meaning)
+2. ACID Props
+3. Normalization
+4. CRUD ops & syntax
