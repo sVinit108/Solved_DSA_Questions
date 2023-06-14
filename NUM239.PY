@@ -1,6 +1,6 @@
 # Link:- https://www.codechef.com/problems/NUM239
 
-for i in range(int(input())):
+for _ in range(int(input())):
     count = 0
     x, y = map(int, input().split())
 
